@@ -425,6 +425,9 @@ a:hover {
   font-weight: 600;
 }
 
+.other-nav-bg {   background-color: #000; }
+.nav-padding { 	  padding-top: 10px; }
+
 .navbar-b.navbar-trans .nav-link:before,
 .navbar-b.navbar-reduce .nav-link:before {
   content: '';
@@ -605,6 +608,12 @@ a:hover {
   position: relative;
   color: #fff;
 }
+
+.intro-other {
+  height: 10vh;
+  position: relative;
+  color: #fff;
+} 
 
 .intro .intro-content {
   text-align: center;
